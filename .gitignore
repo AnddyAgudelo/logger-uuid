@@ -1,0 +1,7 @@
+.idea/
+env/
+*__pycache__
+dist/
+build/
+logger_uuid.egg-info/
+*.pypirc
